@@ -120,6 +120,10 @@ public class ModuleManager {
         add(new BlockClutch());
         add(new SprintReset());
 
+        // 1.13
+        add(new NoFall());
+        add(new OmniSprint());
+            
         for(Module m : this.getModules()) {
             if(!(m.getCategory().equals(Category.Gui) || m.getCategory().equals(Category.Hud))) {
                 m.visible = true;
