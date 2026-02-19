@@ -1,6 +1,6 @@
 # Valkyrie
 An open source, mixin based ghost AND a bit blatant client for Minecraft 1.8.9 built on Minecraft Forge.  
-forked from [zPeanut] and [UltramoxX].  
+forked from [zPeanut] and [UltramoxX]'s Hydrogen.  
 
 Current stable release: **1.12.5**  
   
@@ -10,25 +10,18 @@ We are merely providing you with it. Use at your own risk.**
 
 ## Features
 
-There are currently over 50 modules included in Hydrogen,  
-including a fully customizable Ingame GUI, aswell as various  
-render, combat and utility focused modules.  
+There are currently over 50 modules included in Valkyrie,  
+including a fully customizable Ingame GUI, aswell as various render, combat and utility focused modules. and also, 2 more modules from Valkyrie: NoFall, and OmniSprint (OmniSprint requires nothing, it just packet bursts sprint packets)  
   
 Go ahead and try them out!
 
 ## USER INSTALLATION
 
-Before you install Hydrogen, make sure to have installed Minecraft Forge for Minecraft 1.8.9.
-
-### Automatic Installation:
-
-1. Download the [Installer] ([src code])
-2. Select your version.
-3. Enjoy the ride.
+Before you install Valkyrie, make sure to have installed Minecraft Forge for Minecraft 1.8.9.
 
 ### Manual Installation:
 
-1. Download the latest [release] of Hydrogen.
+1. Download the latest [release] of Valkyrie from the actions tab.
 2. Drag and Drop ``hydrogen-x.x.x.jar`` into your directory for Forge mods (Win-Default: ``%appdata%/.minecraft/mods``).
 3. Select your launcher profile with the respective Forge version.
 4. Enjoy the ride.
@@ -56,31 +49,14 @@ You will then get a jar file located at
 `\build\libs`  
 
 inside of your directory. Simply put that file into your mods folder inside .minecraft and you're good to go!
-
-## Credits
-
-### Dependencies:  
-  
+## Requirements 
 **[DarkMagician6's EventAPI]**, an open source EventAPI system, made for handling events across java based projects.  
 **[Semver4j]**, A Library for semantic versioning in Java applications. Used to compare semantic versions in the client to check if the client is outdated.
 
-### Credits:  
-  
-**superblaubeere27**, for providing most of the initial client base.  
-**HeroCode**, for providing the ClickGUI API.  
-**Lemon**, for providing the Settings system, used in the client.  
-**All of my contributors on discord**, who've reported bugs and suggested modules over the past:
-- ProfKambing
-- QianHeJ
-- neyled
-- qaql
-- S4rnth1l
-- perry
 
-[me]: https://github.com/zPeanut
+
+[zPeanut]: https://github.com/zPeanut
 [UltramoxX]: https://github.com/Morten-Renner
 [SemVer4j]: https://github.com/vdurmont/semver4j
 [DarkMagician6's EventAPI]: https://bitbucket.org/DarkMagician6/eventapi/src/master/
-[Installer]: https://github.com/zPeanut/Hydrogen/releases/download/1.11.3/hydrogen-installer.exe
-[src code]: https://github.com/zPeanut/python-stuff/blob/master/hydrogen-installer.pyw
-[release]: https://github.com/zPeanut/Hydrogen/releases
+[release]: https://github.com/Gund4422/Valkyrie/actions
