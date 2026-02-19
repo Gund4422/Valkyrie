@@ -1,16 +1,8 @@
-![alt text](https://raw.githubusercontent.com/zPeanut/Resources/master/hydrogen.png)
-
-An open source, mixin based ghost client for Minecraft 1.8.9 built on Minecraft Forge.  
-Developed by [Me] and [UltramoxX].  
-Contributions are highly welcome!
+# Valkyrie
+An open source, mixin based ghost AND a bit blatant client for Minecraft 1.8.9 built on Minecraft Forge.  
+forked from [zPeanut] and [UltramoxX].  
 
 Current stable release: **1.12.5**  
-  
-Join our discord!  
-https://discord.gg/dmw5N5X9p6
-
-Full Changelog:  
-https://zpeanut.github.io/main/changelog
   
 Please remember that: **We are not responsible for any repercussions you face using this client.  
 We are merely providing you with it. Use at your own risk.** 
